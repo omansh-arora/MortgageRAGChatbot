@@ -1,8 +1,7 @@
 
-window.MORTGAGE_BOT_API_URL = 'https://mortgageragchatbot-production.up.railway.app/';
 (function () {
   'use strict';
-
+  window.MORTGAGE_BOT_API_URL = 'https://mortgageragchatbot-production.up.railway.app';
   const CONFIG = {
     API_URL: window.MORTGAGE_BOT_API_URL || 'http://localhost:8000',
     WIDGET_TITLE: 'Mortgage Assistant',
