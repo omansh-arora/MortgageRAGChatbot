@@ -4,7 +4,7 @@
   window.MORTGAGE_BOT_API_URL = 'https://mortgageragchatbot-production.up.railway.app';
   const CONFIG = {
     API_URL: window.MORTGAGE_BOT_API_URL || 'http://localhost:8000',
-    WIDGET_TITLE: 'Mortgage Assistant',
+    WIDGET_TITLE: 'AI Mortgage Assistant',
     WELCOME_MESSAGE:
       "Welcome to our mortgage desk! \n\nWhether you're curious about rates, pre-approvals, or first-time buyer programs, I've got you covered. What would you like to know?",
     PLACEHOLDER: 'Ask anything about mortgages…',
@@ -516,7 +516,7 @@
                 <h3>${CONFIG.WIDGET_TITLE}</h3>
                 <span>
                   <span class="chat-status-dot"></span>
-                  We reply immediately
+                  Available
                 </span>
               </div>
             </div>
