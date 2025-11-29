@@ -25,6 +25,8 @@ OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "")
 if not OPENAI_API_KEY:
     raise ValueError("OPENAI_API_KEY environment variable must be set")
 
+FORCE_REBUILD_INDEX = os.getenv("FORCE_REBUILD_INDEX", "false").lower() == "true"
+
 # --- Agent / Broker Profile ---
 AGENT_NAME = os.getenv("AGENT_NAME", "").strip()
 AGENT_BIO = os.getenv("AGENT_BIO", "").strip()
@@ -70,12 +72,9 @@ LLM_TEMPERATURE = 0.1
 COLLECTION_NAME = "mortgage_documents"
 
 API_HOST = "0.0.0.0"
-# Use PORT env variable for cloud platforms (Railway, Render, etc.), default to 8000 for local
-API_PORT = int(os.getenv("PORT", 8000))
+API_PORT = int(os.getenv("PORT", 8080))
 
-# CORS_ORIGINS: Only allow embedding on authorized domains
-# Configure ALLOWED_ORIGINS in .env (comma-separated list)
-# Example: ALLOWED_ORIGINS=https://mywebsite.com,https://www.mywebsite.com
+
 ALLOWED_ORIGINS = os.getenv("ALLOWED_ORIGINS", "").strip()
 
 CORS_ORIGINS = [

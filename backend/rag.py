@@ -3,6 +3,8 @@ from pathlib import Path
 from typing import List, Dict, Any
 import logging
 import mailbox
+import hashlib
+import json
 
 from langchain_community.document_loaders import (
     DirectoryLoader, 
@@ -51,17 +53,39 @@ class MortgageRAG:
     
     def _initialize_vectorstore(self):
         try:
-            if config.CHROMA_DB_DIR.exists() and any(config.CHROMA_DB_DIR.iterdir()):
-                logger.info("Loading existing ChromaDB vectorstore...")
-                self.vectorstore = Chroma(
-                    collection_name=config.COLLECTION_NAME,
-                    embedding_function=self.embeddings,
-                    persist_directory=str(config.CHROMA_DB_DIR)
-                )
-                logger.info(f"Loaded vectorstore with {self.vectorstore._collection.count()} documents")
+            # Check if forced rebuild is requested via environment variable
+            if config.FORCE_REBUILD_INDEX:
+                logger.info("FORCE_REBUILD_INDEX=true detected. Rebuilding vectorstore...")
+                if config.CHROMA_DB_DIR.exists():
+                    import shutil
+                    shutil.rmtree(config.CHROMA_DB_DIR)
+                    config.CHROMA_DB_DIR.mkdir(parents=True, exist_ok=True)
+                self._build_vectorstore_from_documents()
+            elif config.CHROMA_DB_DIR.exists() and any(config.CHROMA_DB_DIR.iterdir()):
+                # Check if source files have changed since last build
+                current_hash = self._calculate_source_hash()
+                stored_hash = self._get_stored_hash()
+                
+                if current_hash != stored_hash:
+                    logger.info(f"Source files changed (hash mismatch). Rebuilding vectorstore...")
+                    logger.info(f"Stored: {stored_hash}, Current: {current_hash}")
+                    import shutil
+                    shutil.rmtree(config.CHROMA_DB_DIR)
+                    config.CHROMA_DB_DIR.mkdir(parents=True, exist_ok=True)
+                    self._build_vectorstore_from_documents()
+                    self._store_hash(current_hash)
+                else:
+                    logger.info("Loading existing ChromaDB vectorstore...")
+                    self.vectorstore = Chroma(
+                        collection_name=config.COLLECTION_NAME,
+                        embedding_function=self.embeddings,
+                        persist_directory=str(config.CHROMA_DB_DIR)
+                    )
+                    logger.info(f"Loaded vectorstore with {self.vectorstore._collection.count()} documents")
             else:
                 logger.info("No existing vectorstore found. Creating new one...")
                 self._build_vectorstore_from_documents()
+                self._store_hash(self._calculate_source_hash())
             
             self.retriever = self.vectorstore.as_retriever(
                 search_kwargs={"k": config.RETRIEVAL_K}
@@ -72,6 +96,48 @@ class MortgageRAG:
         except Exception as e:
             logger.error(f"Error initializing vectorstore: {e}")
             raise
+    
+    def _calculate_source_hash(self) -> str:
+        """Calculate hash of all source documents to detect changes."""
+        if not config.RAW_DOCS_DIR.exists():
+            return "empty"
+        
+        file_hashes = []
+        for ext in ["*.pdf", "*.txt", "*.md", "*.docx"]:
+            for file_path in sorted(config.RAW_DOCS_DIR.glob(f"**/{ext}")):
+                if file_path.is_file():
+                    try:
+                        stat = file_path.stat()
+                        # Hash filename, size, and mtime
+                        file_info = f"{file_path.name}:{stat.st_size}:{stat.st_mtime}"
+                        file_hashes.append(file_info)
+                    except Exception as e:
+                        logger.warning(f"Could not stat {file_path}: {e}")
+        
+        if not file_hashes:
+            return "empty"
+        
+        combined = "|".join(file_hashes)
+        return hashlib.sha256(combined.encode()).hexdigest()[:16]
+    
+    def _get_stored_hash(self) -> str:
+        """Get the stored hash from last build."""
+        hash_file = config.CHROMA_DB_DIR / ".source_hash"
+        if hash_file.exists():
+            try:
+                return hash_file.read_text().strip()
+            except Exception as e:
+                logger.warning(f"Could not read hash file: {e}")
+        return ""
+    
+    def _store_hash(self, hash_value: str):
+        """Store the current source hash."""
+        hash_file = config.CHROMA_DB_DIR / ".source_hash"
+        try:
+            hash_file.write_text(hash_value)
+            logger.info(f"Stored source hash: {hash_value}")
+        except Exception as e:
+            logger.warning(f"Could not write hash file: {e}")
     
     def _load_email_file(self, file_path: Path) -> List[Document]:
         logger.info(f"Note: Email file detected. Please pre-process with email_processor.py for PII redaction")
