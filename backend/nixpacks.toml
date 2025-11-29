@@ -1,0 +1,9 @@
+# Nixpacks build configuration for Railway
+[phases.setup]
+nixPkgs = ["python39", "gcc"]
+
+[phases.install]
+cmds = ["pip install -r requirements.txt", "python -m spacy download en_core_web_sm"]
+
+[start]
+cmd = "uvicorn main:app --host 0.0.0.0 --port $PORT"
