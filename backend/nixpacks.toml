@@ -1,6 +1,6 @@
 # Nixpacks build configuration for Railway
 [phases.setup]
-nixPkgs = ["python39", "gcc"]
+nixPkgs = ["python311", "gcc"]
 
 [phases.install]
 cmds = ["pip install -r requirements.txt", "python -m spacy download en_core_web_sm"]
