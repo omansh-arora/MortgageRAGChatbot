@@ -1,0 +1,187 @@
+# Scraped from: https://www.bankofcanada.ca/publications/mpr/mpr-2025-10-29/
+
+Skip to content
+
+[ Home ](https://www.bankofcanada.ca/ "Home")
+
+Search the site
+
+Search
+
+[FR](https://www.banqueducanada.ca/publication/rpm/rpm-2025-10-29/)
+
+Change theme
+
+Change theme
+
+Change theme
+
+Change theme
+
+# Monetary Policy Report
+
+October 2025
+
+# Monetary Policy Report—October 2025
+
+Data available as:
+[CSV](https://www.bankofcanada.ca/valet/observations/group/MPR_2025M10/csv),
+[JSON](https://www.bankofcanada.ca/valet/observations/group/MPR_2025M10/json)
+and
+[XML](https://www.bankofcanada.ca/valet/observations/group/MPR_2025M10/xml)
+
+Available as: [PDF](https://www.bankofcanada.ca/wp-
+content/uploads/2025/10/mpr-2025-10-29.pdf)
+
+## [ Overview
+](https://www.bankofcanada.ca/publications/mpr/mpr-2025-10-29/overview/
+"Overview")
+
+The Canadian economy is adjusting to steep US tariffs on several industries
+and coping with elevated uncertainty. Tariffs have led to a fall in the demand
+for Canadian goods, affecting the broader economy. The reconfiguration of
+global trade and domestic production is also leading to higher costs. Total
+inflation has been around 2%, while underlying inflation has continued to be
+about 2½%.
+
+## [ Current conditions
+](https://www.bankofcanada.ca/publications/mpr/mpr-2025-10-29/canadian-
+conditions/ "Current conditions")
+
+Canadian economic growth has slowed, reflecting the disruptive effects of US
+tariffs and a decline in population growth. Exports and business investment
+have slumped. After being close to 2% for several months, CPI inflation was
+2.4% in September.
+
+## [ Tariff and other assumptions
+](https://www.bankofcanada.ca/publications/mpr/mpr-2025-10-29/section-8/
+"Tariff and other assumptions")
+
+Many countries have signed new trade agreements with the United States. US
+tariffs continue to be in flux, and the future of trade in North America
+remains uncertain.
+
+## [ Outlook
+](https://www.bankofcanada.ca/publications/mpr/mpr-2025-10-29/canadian-
+outlook/ "Outlook")
+
+The ongoing trade conflict is fundamentally reshaping Canada’s economy and
+will have a lasting negative impact on economic activity. At the same time,
+the reconfiguration of global trade and domestic production is putting upward
+pressure on costs. Reflecting these two competing forces, inflation remains
+near the 2% target over the projection horizon.
+
+## [ Global economy
+](https://www.bankofcanada.ca/publications/mpr/mpr-2025-10-29/global-economy/
+"Global economy")
+
+Global growth has been resilient. But the historic rise in US tariffs is
+reshaping global trade, weighing on prospects for global growth and pushing up
+inflation in the United States.
+
+## [ Projections
+](https://www.bankofcanada.ca/publications/mpr/mpr-2025-10-29/projections/
+"Projections")
+
+Economic growth in Canada is projected to strengthen from around 0.75% in the
+second half of 2025, with annual growth averaging 1.4% over 2026 and 2027.
+Inflation is expected to remain around 2% over the projection horizon.
+
+## [ Risks
+](https://www.bankofcanada.ca/publications/mpr/mpr-2025-10-29/risks/ "Risks")
+
+Risks related to Canada’s trade relationship with the United States remain
+elevated. The outlook could also be affected by risks that are not directly
+related to tariffs.
+
+## In focus
+
+### [ Assessing underlying inflation
+](https://www.bankofcanada.ca/publications/mpr/mpr-2025-10-29/in-focus-1/
+"Assessing underlying inflation")
+
+The goal of monetary policy is to keep total inflation close to the 2% target.
+But inflation can be volatile, and it takes time for changes to interest rates
+to filter through the economy. This is why, when setting policy, it is
+important to distinguish between temporary movements in inflation and lasting
+ones.
+
+### [ Shifts in cost pressures
+](https://www.bankofcanada.ca/publications/mpr/mpr-2025-10-29/in-focus-2/
+"Shifts in cost pressures")
+
+Cost pressures are expected to ease. But businesses continue to face high
+input costs due to US tariffs and the broader reconfiguration of global trade.
+
+The _Monetary Policy Report_ is a product of the Governing Council of the Bank
+of Canada: Tiff Macklem, Carolyn Rogers, Toni Gravelle, Sharon Kozicki,
+Nicolas Vincent, Rhys Mendes and Michelle Alexopoulos.
+
+## In brief: _Monetary Policy Report_
+
+* * *
+
+[ Learn about Canada’s inflation-control strategy, the objective of Canada’s
+monetary policy and the main instruments used to implement it.
+](https://www.bankofcanada.ca/core-functions/monetary-policy/)
+
+Our Valet API is designed to help you integrate your applications and
+processes with our data. For details, please see our
+[documentation](https://www.bankofcanada.ca/valet/docs).
+
+## [Bank of Canada lowers policy rate to 2¼% The Bank of Canada today reduced
+its target for the overnight rate by 25 basis points to 2.25%, with the Bank
+Rate at 2.5% and the deposit rate at 2.20%.
+](https://www.bankofcanada.ca/2025/10/fad-press-release-2025-10-29/)
+
+Content Type(s): [Press](https://www.bankofcanada.ca/content_type/press/),
+[Press releases](https://www.bankofcanada.ca/content_type/press/press-
+releases/)
+
+## [Monetary Policy Report Press Conference Opening Statement Governor Tiff
+Macklem discusses the _Monetary Policy Report_ and the key issues involved in
+the Governing Council’s deliberations about the monetary policy decision.
+](https://www.bankofcanada.ca/2025/10/opening-statement-2025-10-29/)
+
+Content Type(s): [Opening
+statements](https://www.bankofcanada.ca/content_type/press/speeches/opening-
+statements/), [Press](https://www.bankofcanada.ca/content_type/press/),
+[Speeches and
+appearances](https://www.bankofcanada.ca/content_type/press/speeches/)
+
+## [Press Conference: Monetary Policy Report – October 2025 _Release of the
+Monetary Policy Report_ – Press conference by Governor Tiff Macklem and Senior
+Deputy Governor Carolyn Rogers (10:30 (ET) approx.).
+](https://www.bankofcanada.ca/multimedia/press-conference-monetary-policy-
+report-october-2025/)
+
+Content Type(s): [Press](https://www.bankofcanada.ca/content_type/press/),
+[Speeches and
+appearances](https://www.bankofcanada.ca/content_type/press/speeches/),
+[Webcasts](https://www.bankofcanada.ca/content_type/press/speeches/webcasts/)
+
+ISSN 1490-1234 (Online)
+
+[ Share this page on Facebook Share this page on Facebook
+](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.bankofcanada.ca%2Fpublications%2Fmpr%2Fmpr-2025-10-29%2F
+"Share this page on Facebook") [ Share this page on X Share this page on X
+](https://twitter.com/intent/tweet?text=Currently+reading%3A&url=https%3A%2F%2Fwww.bankofcanada.ca%2Fpublications%2Fmpr%2Fmpr-2025-10-29%2F
+"Share this page on X") [ Share this page on LinkedIn Share this page on
+LinkedIn  ](https://www.linkedin.com/sharing/share-
+offsite?url=https%3A%2F%2Fwww.bankofcanada.ca%2Fpublications%2Fmpr%2Fmpr-2025-10-29%2F
+"Share this page on LinkedIn") [ Share this page by email Share this page by
+email  ](mailto:?Subject=Monetary Policy Report%E2%80%94October
+2025&body=Currently reading%3A
+https%3A%2F%2Fwww.bankofcanada.ca%2Fpublications%2Fmpr%2Fmpr-2025-10-29%2F
+"Share this page by email")
+
+Back to top
+
+Back to top
+
+We use [cookies](https://www.bankofcanada.ca/privacy/website-privacy-
+practices/) to help us keep improving this website.
+
+[ Accept and continue ](https://www.bankofcanada.ca/privacy/website-privacy-
+practices/)
+

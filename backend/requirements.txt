@@ -1,0 +1,36 @@
+# Backend Python dependencies for MortgageBot
+# Note: some packages (pymupdf) may need a Python version compatible with prebuilt wheels.
+
+fastapi
+uvicorn
+pydantic
+python-multipart
+slowapi
+
+langchain
+langchain-community
+langchain-openai
+langchain-text-splitters
+chromadb
+openai
+
+python-dotenv
+
+Pillow
+pypdf
+pdfplumber
+# PyMuPDF (pymupdf) provides fast PDF parsing but may require a compatible Python version
+# If you have trouble installing `pymupdf`, try `pymupdf4llm` or use `pypdf`/`pdfplumber` instead
+pymupdf
+
+beautifulsoup4
+requests
+html2text
+lxml
+
+presidio-analyzer
+presidio-anonymizer
+spacy
+
+python-docx
+unstructured

@@ -1,0 +1,600 @@
+# Scraped from: https://www.bankofcanada.ca/2025/11/toward-a-virtuous-circle-for-productivity/
+
+Skip to content
+
+[ Home ](https://www.bankofcanada.ca/ "Home")
+
+Search the site
+
+Search
+
+[FR](https://www.banqueducanada.ca/2025/11/vers-un-cercle-vertueux-pour-la-
+productivite/)
+
+Change theme
+
+Change theme
+
+Change theme
+
+Change theme
+
+# Toward a virtuous circle for productivity
+
+Remarks
+
+[Nicolas Vincent](https://www.bankofcanada.ca/profile/nicolas-vincent/
+"External Deputy Governor")
+
+Association des économistes québécois and CFA Québec
+
+[Québec,
+Québec](https://www.bankofcanada.ca/search/?location\[\]=quebec_quebec)
+
+November 19, 2025
+
+[ Share this page on Facebook Share this page on Facebook
+](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.bankofcanada.ca%2F2025%2F11%2Ftoward-
+a-virtuous-circle-for-productivity%2F "Share this page on Facebook") [ Share
+this page on X Share this page on X
+](https://twitter.com/intent/tweet?text=Currently+reading%3A&url=https%3A%2F%2Fwww.bankofcanada.ca%2F2025%2F11%2Ftoward-
+a-virtuous-circle-for-productivity%2F "Share this page on X") [ Share this
+page on LinkedIn Share this page on LinkedIn
+](https://www.linkedin.com/sharing/share-
+offsite?url=https%3A%2F%2Fwww.bankofcanada.ca%2F2025%2F11%2Ftoward-a-virtuous-
+circle-for-productivity%2F "Share this page on LinkedIn") [ Share this page by
+email Share this page by email  ](mailto:?Subject=Toward a virtuous circle for
+productivity&body=Currently reading%3A
+https%3A%2F%2Fwww.bankofcanada.ca%2F2025%2F11%2Ftoward-a-virtuous-circle-for-
+productivity%2F "Share this page by email")
+
+Available as: [PDF](https://www.bankofcanada.ca/wp-
+content/uploads/2025/11/remarks-251119.pdf)
+
+In my work at the Bank of Canada, I often have the opportunity to meet with
+Canadians and Canadian businesses to better understand what’s happening in the
+economy at a grassroots level. Productivity is a topic that comes up a lot.
+It’s an issue that features prominently in the media, public discussions and
+political debates.
+
+And with good reason. Productivity, after all, is an engine of wealth. It
+allows the economy to grow despite limited resources. Unfortunately, as I am
+sure you know, Canada’s productivity has been weak for some time. The Bank has
+highlighted this repeatedly.1 But the situation has grown more urgent. Shocks
+to our economy have become more frequent, and we are too vulnerable to their
+impacts. Stronger productivity would help protect us from these shocks. It
+would also give us the momentum to seize opportunities in a rapidly changing
+world.
+
+I have three goals in mind for today.
+
+First, I want to clarify what productivity is and explain why it matters for
+everyone—not just businesspeople and economists. I’ll also give a brief
+overview of the current state of productivity in Canada.
+
+Second, I will explain the scale and complexity of our productivity problem.
+To put it bluntly, we’re stuck in a vicious circle. When productivity is weak,
+it’s much harder to meet current challenges and seize opportunities for the
+future. There is no quick or easy way to improve productivity, and no single
+sector can do it alone. The challenge is complex, and long-standing structural
+issues are at play. If we want to fix this, we’ll need to be thoughtful,
+systematic and resolute.
+
+Finally, I’ll end on a positive note by talking about some levers that could
+help us reverse course. Improving our productivity won’t be easy. But we can
+create a virtuous circle that benefits us all. We owe it to ourselves—and to
+future generations.
+
+## What is productivity and why does it matter?
+
+Let’s start with the basics. What is productivity, and why is it so important?
+I know this audience is well versed in this topic. But improving productivity
+should be a priority for everyone—not just experts—because weak productivity
+affects everyone. So let me take a brief detour to make sure we are all on the
+same page.
+
+In my conversations with workers and employers, I’ve learned that many think
+boosting productivity means people will have to work harder and longer.
+However, this is not what economists mean by productivity.
+
+Fundamentally, productivity is a way to measure how efficiently inputs, such
+as labour and capital, are used to produce a good or service. There are
+several measures of productivity, but labour productivity is one of the more
+commonly used in public discussions. This measure is calculated by dividing
+the value of goods and services produced by the amount of labour that it took
+to produce them.2 At a national level, labour productivity is expressed by
+dividing gross domestic product (GDP) by total hours worked. Looking at
+productivity in this light helps dispel the notion that being more productive
+means working harder and longer. Instead, it means producing more with what we
+have. It means producing _better_.
+
+While labour productivity can be measured for a given quarter, looking at data
+over a longer period is generally more revealing. A lot of different factors
+can affect output and labour in the short term. But they may not have much to
+do with the long-term trend in productivity.3
+
+That said, Canada’s productivity has been lagging for the past 25 years at
+least. The data are clear. For example, the average annual growth in labour
+productivity in Canada was about 3% in the 1960s and 1970s but fell to 1%
+between 2000 and 2019 (Chart 1). This decline continued through the pandemic
+and persists today. And it’s not one or two sectors that are causing the poor
+performance. Nor is it caused by differences in industrial structure. It’s a
+widespread problem across the economy.
+
+A modern browser with javascript enabled is required to view our charts.
+
+Alternatively, the data is available for download in:
+
+  * [XML](https://www.bankofcanada.ca/valet/observations/group/SPEECH_VINC20251119_C1/xml)
+  * [JSON](https://www.bankofcanada.ca/valet/observations/group/SPEECH_VINC20251119_C1/json)
+  * [CSV](https://www.bankofcanada.ca/valet/observations/group/SPEECH_VINC20251119_C1/csv)
+
+Even worse, over the past five decades, Canada’s productivity has deteriorated
+compared with that of other G7 countries (Chart 2). In 1971, Canada’s
+productivity was, on average, higher than that of its peers. By the early
+1980s, the situation had reversed. And the average productivity gap between
+Canada and other G7 countries has continued to widen since the start of the
+2000s, particularly with the United States.
+
+A modern browser with javascript enabled is required to view our charts.
+
+Alternatively, the data is available for download in:
+
+  * [XML](https://www.bankofcanada.ca/valet/observations/group/SPEECH_VINC20251119_C2/xml)
+  * [JSON](https://www.bankofcanada.ca/valet/observations/group/SPEECH_VINC20251119_C2/json)
+  * [CSV](https://www.bankofcanada.ca/valet/observations/group/SPEECH_VINC20251119_C2/csv)
+
+## Productivity is an engine of growth and wealth
+
+It’s fair to say that Canada’s track record on productivity hasn’t been
+stellar. But why should we be concerned? Why is there such a focus on it?
+
+The reason is that productivity is an important driver of growth and wealth.
+Our economic outlook and standard of living depend on it. In fact,
+historically, wage increases and productivity growth have gone hand in hand
+(Chart 3).
+
+A modern browser with javascript enabled is required to view our charts.
+
+Alternatively, the data is available for download in:
+
+  * [XML](https://www.bankofcanada.ca/valet/observations/group/SPEECH_VINC20251119_C3/xml)
+  * [JSON](https://www.bankofcanada.ca/valet/observations/group/SPEECH_VINC20251119_C3/json)
+  * [CSV](https://www.bankofcanada.ca/valet/observations/group/SPEECH_VINC20251119_C3/csv)
+
+To better understand the link between productivity and wages, let’s consider
+the concept of cost. The most important labour cost for a business isn’t the
+hourly wage that it pays its workers. What matters more is what we refer to as
+unit labour costs—that is, how much it costs in wages to produce a single unit
+of output. This could be a unit of a physical product, such as a cubic metre
+of lumber or a wind turbine. It could also be a service, such as a medical
+visit, a concert or a web application.
+
+Let’s imagine a company that takes 10 hours to produce 100 units and pays its
+workers $40 an hour. The cost of labour to produce 100 units is $400, and the
+unit labour cost is $4. Now, let’s say a new technology or process lets the
+company produce 125 units in 10 hours instead of 100 (Figure 1). Thanks to
+this gain in productivity, the company would be able to pay its workers up to
+$50 an hour without increasing its unit labour cost. The company could also
+translate the productivity gain into more competitive prices and thus increase
+its market share. Or it could even use the profits to invest in new, state-of-
+the-art equipment.
+
+Figure 1: Productivity gains mean extra profits for businesses
+
+10 100 10 $ 40 $ 400 $ 4 125 12.5 10 $ 400 $ 3.20 $ 40 Hours worked Production
+units Productivity (units per hour) Hourly wage Production costs  Unit labour
+cost Original scenario Productivity gains
+
+Productivity gains generate additional profits that can be used to increase
+**wages** or **investment** or to reduce **prices**.
+
+So far, this example has focused on how productivity is important for
+businesses and workers. But productivity gains also help monetary policy. When
+the Bank looks at the factors that drive inflation, the relationship between
+rising labour costs and productivity is particularly important. The reason for
+this is straightforward: when productivity is strong, businesses can keep
+their prices stable even if they raise wages. Let’s go back to our example. If
+the workers’ hourly wage increased from $40 to $50 without any other changes,
+the unit labour cost would increase from $4 to $5. It’s hard for companies to
+avoid raising prices when that happens. But if wage growth is accompanied by
+an increase in productivity, it has less of an impact on unit labour costs, so
+it is less inflationary (Figure 2). In concrete terms, this means raising
+productivity allows us to have higher incomes while also keeping inflation low
+and stable. In other words, our collective purchasing power rises.
+
+Figure 2: Productivity gains allow higher wages with less inflation
+
+10 100 10 $40 $400 $4 10 100 10 $50 $500 $5 10 125 12.5 $50 $500 $4 Hours
+worked Production units Productivity (units per hour)  Hourly wage Production
+costs Unit labour cost Original scenario Wages and productivity Wages
+
+Productivity gains help offset the inflationary pressures of rising wages.
+
+Deep down, Canada’s affordability problem is really a productivity problem.
+Inflation has come back down after spiking in 2022, but just about everything
+still costs more than it did before. Everyone is feeling this. If we want to
+make things more affordable, we need to raise our income. And the way to grow
+our income is by increasing productivity. Even modest improvements can make a
+big difference. To give you an idea, if our productivity growth since 2000 had
+been similar to that of other G7 countries, our GDP in Canada today would be
+about 9% higher, which translates to almost $7,000 per person.4 And as I
+mentioned earlier, income growth linked to an increase in productivity would
+come with little or no inflationary pressure. So it would represent real
+growth in our purchasing power.
+
+But the benefits wouldn’t end there. With higher wages, we could bolster our
+retirement savings. And when tax revenues are higher, governments have more
+budgetary flexibility. They can provide better public services without raising
+taxes.5 Or they can fund upgrades to our infrastructure, helping the economy
+become even more productive and further improving our standard of living. This
+is an example of the circular nature of productivity—a point that I will come
+back to later.
+
+## Productivity fuels resilience
+
+On top of improving our standard of living over the long term, strong
+productivity also makes us more resilient to shocks and headwinds. In this
+sense, strong productivity is like having a healthy immune system that can
+help our economy defend itself and recover quickly.6 But that’s not all. It’s
+also like having the well-developed muscles we need to go on the offensive. It
+gives us the strength and agility to seize opportunities and stake a claim in
+a constantly changing world. And the world is changing a lot these days.
+Consider, for example, the geopolitical tensions, shifting global trade
+policies and real-time reconfiguration of supply chains we’re facing. All this
+puts pressure on the supply of goods and services globally and raises the risk
+of inflationary shocks.7 Better productivity wouldn’t just help us deal with
+these disruptions. It would also generate growth with less inflation.
+
+For businesses, productivity gains make them more competitive on the
+international stage. Businesses with strong productivity are nimbler and have
+more room to manoeuvre. In fact, we know from experience that businesses with
+lower productivity are generally the ones that struggle to pivot in the face
+of shocks and end up having to close their doors. The radical change in US
+trade policy is putting our resilience and adaptability to the test. Canadian
+businesses have been forced to seek new suppliers and new markets. But are
+they well positioned for success?
+
+Several studies show the businesses that export the most are the most
+productive.8 They have the muscles to take on foreign competition and the
+agility to rebound faster from setbacks. The link between productivity and
+exporting is at the heart of several of our theoretical models of
+international trade.9 So it’s probably not a coincidence that the contribution
+of exports to our GDP began to slow at the start of the 2000s as the
+productivity gap widened between Canada and its competitors, particularly the
+United States (Chart 4).
+
+A modern browser with javascript enabled is required to view our charts.
+
+Alternatively, the data is available for download in:
+
+  * [XML](https://www.bankofcanada.ca/valet/observations/group/SPEECH_VINC20251119_C4/xml)
+  * [JSON](https://www.bankofcanada.ca/valet/observations/group/SPEECH_VINC20251119_C4/json)
+  * [CSV](https://www.bankofcanada.ca/valet/observations/group/SPEECH_VINC20251119_C4/csv)
+
+To sum up, our competitiveness and resilience depend on our collective
+productivity. Better productivity would improve our economy’s immune system
+and our ability to withstand shocks. And it would give us the muscle to take
+winning shots against international competition.
+
+## The vicious circle of weak productivity
+
+The challenge we face is amplified by what I call the vicious circle of weak
+productivity. When productivity is weak, it can be harder to strengthen it to
+become more agile and resilient.
+
+This insidious problem takes many forms. We know that Canada’s weak
+productivity holds back our ability to compete in international markets. We
+also know that Canadian businesses that are highly exposed to international
+competition have no choice but to constantly evolve and improve. This makes
+them more productive, competitive and resilient.10 And that gives them greater
+flexibility to take risks and raise their productivity even more. The problem
+is that too few Canadian companies are set up to face strong international
+competition.
+
+This is in large part because businesses in Canada have been investing too
+little for too long (Chart 5). It’s one of the main reasons for the country’s
+poor productivity.
+
+A modern browser with javascript enabled is required to view our charts.
+
+Alternatively, the data is available for download in:
+
+  * [XML](https://www.bankofcanada.ca/valet/observations/group/SPEECH_VINC20251119_C5/xml)
+  * [JSON](https://www.bankofcanada.ca/valet/observations/group/SPEECH_VINC20251119_C5/json)
+  * [CSV](https://www.bankofcanada.ca/valet/observations/group/SPEECH_VINC20251119_C5/csv)
+
+But Canada’s weak productivity itself is one of the factors that reduces
+investment. As I explained earlier, weak productivity growth weighs on the
+wages that businesses pay their workers. And the slower wages rise, the more
+fragile consumption becomes and, with it, household demand for the company’s
+products. Faced with sluggish demand growth, businesses are then less inclined
+to invest in new equipment or technology that could improve their
+productivity. Moreover, the impact of weak productivity on wages makes it
+harder to keep our best workers in Canada and to attract top talent from
+elsewhere.
+
+All this further reduces innovation and undermines Canada’s competitiveness.
+It also limits the flow of foreign capital into Canada and our ability to
+compete in global markets.
+
+These examples show that once an economy is caught in a vicious circle, it can
+be hard to escape. In her March 2024 speech, Senior Deputy Governor Carolyn
+Rogers highlighted the urgent need to increase productivity in Canada. Now
+that the alarm has been sounded, it’s time to move from words to action. It’s
+time to get out of this loop.
+
+The first thing we need to do is recognize that weak productivity is a
+systemic problem that demands a coordinated approach across the economy. We
+need to make progress on several fronts. No one institution or group can fix
+it on their own—everyone needs to play their part. But, given the tensions and
+conflicts that are destabilizing our economy, reversing the trend is more
+urgent than ever. Shared adversity is a powerful catalyst. Let’s leverage it.
+
+## How can we turn a vicious circle into a virtuous one?
+
+No doubt, the challenge we face is a big one. But by creating the conditions
+for a virtuous circle, we can shape a better future that benefits all
+Canadians. We will not only have more money in our pockets, but we will also
+have a currency that keeps its value, more diversified trade, and a more self-
+reliant and attractive economy.
+
+Canada has been a leader in productivity before, and it can be one again.11
+But we need to be realistic. Maybe Canada won’t catch up to the United States
+in terms of productivity levels. Regardless of our ranking in the world, we
+should learn from countries that are similar to ours and that are doing
+better. And we should make improving our productivity a shared project.
+
+So how do we do this? To start, we need to identify the most critical areas to
+focus on—what I like to call the levers we can pull. This is by no means an
+exhaustive list, but I’d suggest three areas in particular: creating a better
+investment climate, increasing competition in Canada and investing in our
+talent—what economists call human capital.12
+
+### Creating a better investment climate
+
+As I said at the outset, my colleagues on Governing Council and I regularly
+meet with business leaders across the country to hear about their experiences.
+These discussions often focus on the business environment in Canada and their
+impression that it isn’t very conducive to investment. This is not a trivial
+observation. As I mentioned, Canada’s low business investment over the past
+several years weighs on our productivity.
+
+While this is a complex, multi-dimensional problem, there are a few things we
+could do to improve our investment climate. The Governor spoke about some of
+this in September, so I’ll just give you a brief overview.13
+
+Whether it’s in meetings or surveys, businesses often tell us that Canada’s
+regulatory framework is too cumbersome, complex and far-reaching. They cite it
+as an irritant that increasingly prevents them from being more dynamic. This
+is the first lever we should pull. A certain level of regulation is essential,
+of course. But it’s fair to ask if we could regulate better. This could mean
+speeding up approval processes, re-evaluating the scope of some rules and
+reducing the overall uncertainty around regulation. We also need to address
+overlap, redundancies and contradictions between the different levels of
+government. The same is true for the barriers that hinder the movement of
+products and workers between provinces and territories.
+
+Upgrading some of our infrastructure would also lower the cost of doing
+business in Canada. For example, we could improve east–west transportation
+routes to broaden our domestic market or even build new port facilities to
+ship our products overseas. As well, to reduce our reliance on the US market,
+we should be looking to get more out of our trade agreements with other
+partners.14 As many others have said before, these factors could improve our
+productivity and competitiveness by encouraging Canadian businesses to invest
+and grow.
+
+Speaking of expansion, we know that Canada has fewer large businesses than the
+United States. In general, larger businesses are the most productive—and the
+most likely to export and invest. For companies to form, and for smaller ones
+to flourish into larger ones, it’s important that a regulatory and tax regime
+support their development and growth.
+
+### Increasing competition in key sectors
+
+That said, even though we benefit when our companies expand, this shouldn’t
+come at the expense of a competitive marketplace. Improving productivity also
+means finding ways to foster strong and healthy competition in the Canadian
+economy. Nobody in this room would be surprised to hear me say it can be very
+hard for new entrants to break into certain highly concentrated sectors with a
+few big players. Think, in particular, of telecommunications, passenger
+transportation and financial services.15 These are sectors that are critical
+to the entire economy. Which brings me to the second lever we need to
+pull—competition.
+
+Competition has a positive impact on productivity. It encourages businesses to
+become more efficient, improve the quality of their products and services,
+reduce their costs and offer better prices. Competition isn’t just good for
+consumers. It also makes businesses more productive and resilient. And that’s
+why we need to review and rethink our approach to competition.
+
+### Investing in our talent
+
+I’ve talked a lot about businesses today, but it’s important to note that
+improving our productivity also relies on people. More specifically, it relies
+on human capital—the knowledge and skills of workers. And that’s the third
+lever we need to pull. Indeed, we need to invest in the workers of today—and
+of the future—so they can do their jobs effectively, reach their full
+potential and advance in their careers. That’s because, as I said earlier, a
+more productive society isn’t one that demands its citizens work more. It’s
+really one that gives people the knowledge, skills and tools they need to
+generate more value in their work.
+
+Consider artificial intelligence (AI), for example. It’s a technology so
+transformative that it could dramatically increase our productivity. But it
+could also disrupt the labour market. To get the most out of AI while limiting
+the negative impact on workers, we will need to rethink some aspects of our
+approach to education, and we will need to invest in training.
+
+Investing in talent also means making it easier to recognize professional
+accreditations across provinces and territories, and the foreign credentials
+of people who move to Canada. Doing so would help attract the best students
+and workers from around the world.
+
+### The Bank’s role
+
+In listening to me today, you might be asking yourself why a Deputy Governor
+of the Bank of Canada decided to devote an entire speech to productivity.
+After all, the Bank has little direct influence over productivity, and the
+levers I just identified are outside of our purview. Ultimately, monetary
+policy cannot address weak productivity. Nor can it neutralize the economic
+effects of structural forces such as demographic change, trade reconfiguration
+or geopolitical uncertainty. But the Bank can play a role in encouraging a
+national dialogue. And in fostering macroeconomic conditions that are
+favourable to a collective effort to boost productivity in Canada.
+
+Keeping inflation close to 2 % is more than just a number. This mandate brings
+real benefits to all Canadians. For households, low inflation maintains their
+purchasing power. For businesses, it provides a degree of stability and
+predictability about costs and prices in the economy. That allows them to
+focus their efforts on improving their productivity and competitiveness,
+whether by adopting new technologies, improving their processes or training
+their workers. This is how—in the context of uncertainty—the Bank can create
+conditions that help businesses and governments design and deliver effective
+solutions to improve Canada’s long-term prospects.
+
+The Bank can also play an important role in public debate about how Canada can
+break free from the vicious circle of weak productivity. Through speeches,
+such as this one today, we hope to raise awareness among Canadians about the
+need to address this significant challenge. And through their research and
+analysis, many economists at the Bank are working to develop and share
+knowledge about productivity. Faced with such a complex challenge, we still
+have a lot to learn. So we will need to be both curious and humble.
+
+## Conclusion
+
+It’s time for me to wrap up. I hope I’ve been able to convince you that
+productivity matters to everyone, not just to economists and experts. And I
+also hope I didn’t scare you too much with my description of the scale and the
+systemic and circular nature of the problem!
+
+Escaping the loop we’re in and creating a virtuous circle won’t be easy. It
+will take a lot of work, creativity and leadership to get there. And we will
+all need to pull in the same direction to reshape our productivity. But it’s
+worth the effort. If we are successful, we won’t just improve our outlook
+during the trade conflict and this period of substantial change. We’ll also
+set ourselves up for long-term gains that will benefit generations to come.
+And stronger growth in our productivity will mean we can increase our incomes
+while limiting inflationary pressures and making life more affordable.
+
+Even if the scale of the task seems daunting, there is an optimistic way to
+approach a systemic problem. That is, if we can reverse some of the factors
+that contribute to weak productivity in Canada, other improvements will
+follow, creating a ripple effect. This will strengthen the country’s immune
+system and give us the muscles to shape our own destiny, no matter what the
+future holds. And even though the Bank’s role in this process is limited, we
+will be there every step of the way. By keeping inflation low, stable and
+predictable, we will help create the conditions for businesses and governments
+to focus their efforts on getting our productivity back on track.
+
+I would like to thank Ben Tomlin and Dany Brouillette for their help in
+preparing this speech.
+
+Content Type(s):
+[Press](https://www.bankofcanada.ca/search/?content_type\[\]=press), [Speeches
+and
+appearances](https://www.bankofcanada.ca/search/?content_type\[\]=speeches),
+[Remarks](https://www.bankofcanada.ca/search/?content_type\[\]=remarks)
+
+Research Topic(s): [Domestic demand and
+components](https://www.bankofcanada.ca/search/?topic\[\]=domestic-demand-and-
+components), [Financial
+services](https://www.bankofcanada.ca/search/?topic\[\]=financial-services),
+[Firm dynamics](https://www.bankofcanada.ca/search/?topic\[\]=firm-dynamics),
+[Inflation and
+prices](https://www.bankofcanada.ca/search/?topic\[\]=inflation-and-prices),
+[International
+topics](https://www.bankofcanada.ca/search/?topic\[\]=international-topics),
+[Labour markets](https://www.bankofcanada.ca/search/?topic\[\]=labour-
+markets), [Monetary
+policy](https://www.bankofcanada.ca/search/?topic\[\]=monetary-policy),
+[Productivity](https://www.bankofcanada.ca/search/?topic\[\]=productivity),
+[Trade integration](https://www.bankofcanada.ca/search/?topic\[\]=trade-
+integration)
+
+## Related information
+
+November 19, 2025
+
+###  [Canada’s weak productivity: reversing
+course](https://www.bankofcanada.ca/2025/11/canadas-weak-productivity-
+reversing-course/)
+
+Speech summary [Nicolas Vincent](https://www.bankofcanada.ca/profile/nicolas-
+vincent/ "External Deputy Governor") Association des économistes québécois
+(ASDEQ) and CFA Québec [Québec,
+Québec](https://www.bankofcanada.ca/search/?location\[\]=quebec_quebec)
+
+External Deputy Governor Nicolas Vincent discusses Canada’s longstanding weak
+productivity, what can be done to reverse the trend, and how we would all
+benefit if we do.
+
+Content Type(s):
+[Press](https://www.bankofcanada.ca/search/?content_type\[\]=press), [Speeches
+and
+appearances](https://www.bankofcanada.ca/search/?content_type\[\]=speeches),
+[Speech
+summaries](https://www.bankofcanada.ca/search/?content_type\[\]=speech-
+summaries) Research Topic(s): [Domestic demand and
+components](https://www.bankofcanada.ca/search/?topic\[\]=domestic-demand-and-
+components), [Financial
+services](https://www.bankofcanada.ca/search/?topic\[\]=financial-services),
+[Firm dynamics](https://www.bankofcanada.ca/search/?topic\[\]=firm-dynamics),
+[Inflation and
+prices](https://www.bankofcanada.ca/search/?topic\[\]=inflation-and-prices),
+[International
+topics](https://www.bankofcanada.ca/search/?topic\[\]=international-topics),
+[Labour markets](https://www.bankofcanada.ca/search/?topic\[\]=labour-
+markets), [Monetary
+policy](https://www.bankofcanada.ca/search/?topic\[\]=monetary-policy),
+[Productivity](https://www.bankofcanada.ca/search/?topic\[\]=productivity),
+[Trade integration](https://www.bankofcanada.ca/search/?topic\[\]=trade-
+integration)
+
+November 19, 2025
+
+###  [Speech: Association des économistes québécois (ASDEQ) and CFA
+Québec](https://www.bankofcanada.ca/multimedia/speech-association-economistes-
+quebecois-asdeq-cfa-quebec-2025-11-19/)
+
+[ ](https://www.bankofcanada.ca/multimedia/speech-association-economistes-
+quebecois-asdeq-cfa-quebec-2025-11-19/)
+
+_Toward a virtuous circle for productivity_ — External Deputy Governor Nicolas
+Vincent speaks before the Association des économistes québécois (ASDEQ) and
+CFA Québec (12:45 (ET) approx.).
+
+Content Type(s):
+[Press](https://www.bankofcanada.ca/search/?content_type\[\]=press), [Speeches
+and
+appearances](https://www.bankofcanada.ca/search/?content_type\[\]=speeches),
+[Webcasts](https://www.bankofcanada.ca/search/?content_type\[\]=webcasts)
+
+Footnotes
+
+  1. 1\. For example, see C. Rogers, “[Time to break the glass: Fixing Canada’s productivity problem](https://www.bankofcanada.ca/2024/03/time-to-break-the-glass-fixing-canadas-productivity-problem/)” (speech to Halifax Partnership, Halifax, Nova Scotia, March 26, 2024) and D. Dodge, “[Investing in Productivity](https://www.bankofcanada.ca/2005/11/investing-in-productivity/)” (speech to the Canadian Council for Public-Private Partnerships, Toronto, Ontario, November 28, 2005).[←]
+  2. 2\. Another measure, total factor productivity (TFP), captures the part of production that cannot be explained solely by the consumption of inputs, capital and labour. It is often said that it represents a measure of technological progress or process improvement. As a university professor, I really like this measure because it’s very pure. However, TFP can vary depending on the data sources used, so interpretating it depends on the context. For this reason, I’ll focus instead on labour productivity.[←]
+  3. 3\. An example where measured labour productivity did not reflect actual productivity occurred during the COVID-19 pandemic. Productivity spiked because overall production in the economy fell less sharply than hours worked, with so many people losing their jobs or working fewer hours. When the situation normalized, productivity fell back to more normal levels, because hours of work rose faster than output. None of this really reflected the underlying efficiency of the Canadian economy. [←]
+  4. 4\. This calculation uses the weighted average of labour productivity growth rates of the other G7 countries between 2000 and 2023, using their respective GDPs in 2000 as weights.[←]
+  5. 5\. As well, in the context of a shortage of health care workers in Canada, the emergence of new health care technologies, including those using artificial intelligence, offers hope of increased productivity and better services in Canada’s health care systems.[←]
+  6. 6\. This idea likening strong productivity to a healthy immune system for the economy isn’t new. RBC Chief Economist Frances Donald, for example, invoked the idea earlier this year.[←]
+  7. 7\. See T. Macklem, “[Flexible inflation targeting in a shock-prone world](https://www.bankofcanada.ca/2025/08/flexible-inflation-targeting-in-a-shock-prone-world/)” (speech to the Bank of Mexico 100th Anniversary Seminar, Mexico City, Mexico, August 26, 2025).[←]
+  8. 8\. For a seminal work, see A. B. Bernard and J. B. Jensen, “Exporters, Jobs, and Wages in the U.S. manufacturing: 1976–1987,” _Brookings Papers on Economic Activity_ (1995): 67–119. See also J. R. Baldwin and W. Gu, “Trade Liberalization: Export-market Participation, Productivity Growth, and Innovation,” _Oxford Review of Economic Policy_ 20, Issue 3, (2004): 372–392. [←]
+  9. 9\. For another seminal work, see M. J. Melitz, “The Impact of Trade on Intra-Industry Reallocations and Aggregate Industry productivity,” _Econometrica_ 71, no. 6 (2003): 1695–1725.[←]
+  10. 10\. See A. Lileeva and D. Trefler, “Improved Access to Foreign Markets Raises Plant-Level Productivity for Some Plants,” _Quarterly Journal of Economics_ 125, no. 3 (2010): 1051–1099, and J. R. Baldwin and W. Gu, “Export-Market Participation and Productivity Performance in Canadian Manufacturing,” _Canadian Journal of Economics_ 36, no. 3 (2003): 634–657.[←]
+  11. 11\. See A. Sharpe and T. Sargent, “Finances of the Nation: The Canadian Productivity Landscape: An Overview,” _Canadian Tax Journal_ , forthcoming. The authors note that, from 1947 to 1973, business sector output per hour in Canada grew at an average annual rate of about 4%, compared with about 3% in the United States. Since then, Canada’s labour productivity growth has mostly trailed that of the United States.[←]
+  12. 12\. The Organisation for Economic Co-operation and Development (OECD) discusses these themes and others in [_OECD Economic Surveys: Canada 2025_](https://www.oecd.org/en/publications/oecd-economic-surveys-canada-2025_28f9e02c-en/full-report.html/).[←]
+  13. 13\. See T. Macklem, “[Global trade, capital flows and Canada’s prosperity](https://www.bankofcanada.ca/2025/09/global-trade-capital-flows-and-canadas-prosperity/)” (speech to the Saskatchewan Trade and Export Partnership and the Greater Saskatoon Chamber of Commerce, Saskatoon, Saskatchewan, September 23, 2025).[←]
+  14. 14\. See the mid-2025 version of Export Development Canada’s [Trade Confidence Index](https://www.edc.ca/en/article/trade-confidence-index.html).[←]
+  15. 15\. For more on the role of competition in productivity in Canada, particularly as it relates to the financial sector, see C. Rogers, “[Productivity’s competitive edge](https://www.bankofcanada.ca/2025/10/productivitys-competitive-edge/)” (speech to the Canadian Club Toronto, Toronto, Ontario, October 9, 2025).[←]
+
+Back to top
+
+Back to top
+
+We use [cookies](https://www.bankofcanada.ca/privacy/website-privacy-
+practices/) to help us keep improving this website.
+
+[ Accept and continue ](https://www.bankofcanada.ca/privacy/website-privacy-
+practices/)
+

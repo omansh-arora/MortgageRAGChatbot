@@ -1,0 +1,133 @@
+# Scraped from: https://www.bankofcanada.ca/rates/indicators/key-variables/key-inflation-indicators-and-the-target-range/
+
+Skip to content
+
+[ Home ](https://www.bankofcanada.ca/ "Home")
+
+Search the site
+
+Search
+
+[FR](https://www.banqueducanada.ca/taux/indicateurs/sommaire-des-variables-
+cles-relatives-a-la-politique-monetaire/principaux-indicateurs-de-linflation-
+et-fourchette-cible/)
+
+Change theme
+
+Change theme
+
+Change theme
+
+Change theme
+
+# Key inflation indicators and the target range
+
+A modern browser with javascript enabled is required to view our charts.
+
+Alternatively, the data is available for download in:
+
+  * [XML](https://www.bankofcanada.ca/valet/observations/STATIC_ATABLE_CPILL,STATIC_ATABLE_CPIHL,STATIC_ATABLE_V41690973,CPI_TRIM,CPI_MEDIAN/xml?start_date=1996-01-01)
+  * [JSON](https://www.bankofcanada.ca/valet/observations/STATIC_ATABLE_CPILL,STATIC_ATABLE_CPIHL,STATIC_ATABLE_V41690973,CPI_TRIM,CPI_MEDIAN/json?start_date=1996-01-01)
+  * [CSV](https://www.bankofcanada.ca/valet/observations/STATIC_ATABLE_CPILL,STATIC_ATABLE_CPIHL,STATIC_ATABLE_V41690973,CPI_TRIM,CPI_MEDIAN/csv?start_date=1996-01-01)
+
+## Definitions
+
+### Consumer price index (total CPI)
+
+The Consumer Price Index (CPI) is an indicator of changes in consumer prices
+experienced by Canadians. It is obtained by comparing, over time, the cost of
+a fixed basket of goods and services purchased by consumers.
+
+The CPI is widely used as an indicator of the change in the general level of
+consumer prices or the rate of inflation. Since the purchasing power of money
+is affected by changes in prices, the CPI is useful to virtually all
+Canadians.
+
+### Core inflation measures
+
+The prices of certain CPI components can be particularly volatile. These
+components, as well as changes in indirect taxes such as GST, can cause
+sizeable fluctuations in total CPI. In setting monetary policy, the Bank seeks
+to look through such transitory movements in total CPI inflation and focusses
+on “core” inflation measures that better reflect the underlying trend of
+inflation.
+
+#### CPI-trim
+
+CPI-trim is a measure of core inflation that excludes CPI components whose
+rates of change in a given month are located in the tails of the distribution
+of price changes. This measure helps filter out extreme price movements that
+might be caused by factors specific to certain components. In particular, CPI-
+trim excludes 20 per cent of the weighted monthly price variations at both the
+bottom and top of the distribution of price changes, and thus it always
+removes 40 per cent of the total CPI basket. These excluded components can
+change from month to month, depending on which are extreme at a given time. A
+good example would be the impact of severe weather on the prices of certain
+food components. This approach differs from traditional a priori exclusion-
+based measures (e.g. CPIX), which every month omit a pre-specified list of
+components from the CPI basket.
+
+#### CPI-median
+
+CPI-median is a measure of core inflation corresponding to the price change
+located at the 50th percentile (in terms of the CPI basket weights) of the
+distribution of price changes in a given month. This measure helps filter out
+extreme price movements specific to certain components. This approach is
+similar to CPI-trim as it eliminates all the weighted monthly price variations
+at both the bottom and top of the distribution of price changes in any given
+month, except the price change for the component that is the midpoint of that
+distribution.
+
+## [ Renewal of the Inflation-Control Target (October 2016)
+](https://www.bankofcanada.ca/wp-content/uploads/2016/10/background_nov11.pdf
+"Renewal of the Inflation-Control Target \(October 2016\)")
+
+Commentary and technical data relating to the 2016 target renewal.
+
+## [ Monetary Policy Framework Renewal (December 2021)
+](https://www.bankofcanada.ca/wp-content/uploads/2021/12/Monetary-Policy-
+Framework-Renewal-December-2021.pdf "Monetary Policy Framework Renewal
+\(December 2021\)")
+
+Commentary and technical data relating to the 2021 renewal.
+
+## [The Bank’s Preferred Measures of Core
+Inflation](https://www.statcan.gc.ca/eng/statistical-
+programs/document/2301_D63_T9_V2)
+
+General information from Statistics Canada about CPI-trim, CPI-median and CPI-
+common.
+
+## [The Bank’s Preferred Measures of Core Inflation:
+Methodology](https://www.statcan.gc.ca/eng/statistical-
+programs/document/2301_D64_T9_V2)
+
+Information from Statistics Canada about how CPI-trim, CPI-median and CPI-
+common are calculated.
+
+[ Share this page on Facebook Share this page on Facebook
+](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.bankofcanada.ca%2Frates%2Findicators%2Fkey-
+variables%2Fkey-inflation-indicators-and-the-target-range%2F "Share this page
+on Facebook") [ Share this page on X Share this page on X
+](https://twitter.com/intent/tweet?text=Currently+reading%3A&url=https%3A%2F%2Fwww.bankofcanada.ca%2Frates%2Findicators%2Fkey-
+variables%2Fkey-inflation-indicators-and-the-target-range%2F "Share this page
+on X") [ Share this page on LinkedIn Share this page on LinkedIn
+](https://www.linkedin.com/sharing/share-
+offsite?url=https%3A%2F%2Fwww.bankofcanada.ca%2Frates%2Findicators%2Fkey-
+variables%2Fkey-inflation-indicators-and-the-target-range%2F "Share this page
+on LinkedIn") [ Share this page by email Share this page by email
+](mailto:?Subject=Key inflation indicators and the target range&body=Currently
+reading%3A https%3A%2F%2Fwww.bankofcanada.ca%2Frates%2Findicators%2Fkey-
+variables%2Fkey-inflation-indicators-and-the-target-range%2F "Share this page
+by email")
+
+Back to top
+
+Back to top
+
+We use [cookies](https://www.bankofcanada.ca/privacy/website-privacy-
+practices/) to help us keep improving this website.
+
+[ Accept and continue ](https://www.bankofcanada.ca/privacy/website-privacy-
+practices/)
+
