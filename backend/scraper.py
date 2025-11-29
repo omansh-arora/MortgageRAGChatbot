@@ -153,6 +153,7 @@ if __name__ == "__main__":
         # "https://www.bankofcanada.ca",
         # "https://www.ratehub.ca/prime-rate",
         # "https://www.ratehub.ca/best-mortgage-rates"
+        "https://www.canada.ca/en/financial-consumer-agency/services/buying-home.html"
     ]
     
     for url in urls:

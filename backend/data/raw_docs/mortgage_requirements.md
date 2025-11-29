@@ -1,62 +1,57 @@
-# Mortgage Application Requirements
-
 ## Required Documents for Mortgage Application
 
 When applying for a mortgage in Canada, you'll need to provide several key documents to verify your financial situation and identity.
 
-### Personal Identification
-- Valid government-issued photo ID (driver's license or passport)
-- Social Insurance Number (SIN)
-- Proof of Canadian citizenship or permanent residency status
+### 1. Personal Identification
+* Valid government-issued photo ID (driver's license or passport)
+* Social Insurance Number (SIN)
+* Proof of Canadian citizenship, permanent residency, or relevant work/study permit.
+* Proof of current address (e.g., recent utility bill or bank statement).
 
-### Income Verification
+### 2. Income Verification
 
 #### For Employed Individuals:
-- Most recent pay stub (within 30 days)
-- Letter of employment stating position, salary, and length of employment
-- Last 2 years of T4 slips
-- Last 2 years of Notice of Assessment (NOA) from CRA
+* Most recent pay stub (dated within **30 days** of application)
+* Letter of employment stating position, current salary/wage, and length of employment (must be on company letterhead and dated within **30-60 days**)
+* Last **2 years** of T4 slips
+* Last **2 years** of Notice of Assessment (NOA) from the CRA (to verify taxes are paid in full)
 
 #### For Self-Employed Individuals:
-- Last 2-3 years of personal tax returns (T1 Generals)
-- Last 2-3 years of Notice of Assessment from CRA
-- Business financial statements
-- Proof of business ownership (articles of incorporation or business license)
+* Last **2-3 years** of personal tax returns (T1 Generals)
+* Last **2-3 years** of Notice of Assessment from CRA
+* Business financial statements (if incorporated)
+* **T4A slips** (if applicable)
+* Proof of business ownership (articles of incorporation or business license)
 
-### Down Payment Documentation
-- 90 days of bank statements showing accumulated down payment
-- If receiving a gift: signed gift letter from donor stating funds are non-repayable
-- Investment account statements if using RRSP or other investments
+### 3. Down Payment Documentation
+* **90 days of full bank statements** showing the accumulated down payment (lenders verify the source of funds).
+* If using an RRSP: HBP documentation confirming the withdrawal.
+* If receiving a gift: **Signed Gift Letter** from donor stating the funds are non-repayable and showing the funds in the donor's account.
+* Investment account statements (if applicable).
+* **Sale agreement for a previous property** (if the down payment is coming from a recent sale).
 
-### Property Information
-- Purchase and sale agreement (if buying)
-- Property listing details
-- Property tax bill (if available)
-- Condo documents (if applicable): status certificate, reserve fund study
+### 4. Property and Insurance Information
+* Purchase and sale agreement (Offer to Purchase)
+* Property listing details (MLS listing)
+* Property tax bill (if available)
+* Condo documents (if applicable): Status certificate, bylaws, reserve fund study
+* **Proof of Homeowner's Insurance** (required before the closing date).
 
-### Credit and Debt Information
-- List of all current debts (credit cards, loans, car payments)
-- Recent credit card statements
-- Loan statements for any outstanding debts
+### 5. Credit and Debt Information
+* List of all current debts (credit cards, loans, car payments, lines of credit)
+* Recent credit card statements
+* Loan statements for any outstanding debts (often pulled directly from your credit report)
 
-### Additional Requirements
-- Divorce decree or separation agreement (if applicable)
-- Child support or alimony documentation (if applicable)
-- Bankruptcy or consumer proposal discharge papers (if applicable)
+### 6. Additional Requirements (As Applicable)
+* Divorce decree or separation agreement (if applicable, used to verify spousal/child support income or obligations)
+* Bankruptcy or consumer proposal discharge papers (must be discharged for a minimum period, usually 2 years)
 
-## Application Timeline
+## ⏱️ Application Timeline
 
-The mortgage application process typically takes 3-5 business days for pre-approval and 30-45 days for final approval, depending on complexity and document completeness.
+The mortgage application process typically takes **3-5 business days** for pre-approval and **30-45 days** for final approval, depending on complexity and document completeness.
 
-### Tips for Faster Processing:
-1. Organize all documents before starting application
-2. Respond quickly to requests for additional information
-3. Ensure all documents are current and legible
-4. Work with a mortgage broker who can guide you through the process
+## Important Notes & Stress Test
 
-## Important Notes
-
-- All documents must be original or certified copies
-- Documents in languages other than English or French must be professionally translated
-- Digital signatures are accepted on most documents
-- Keep copies of everything you submit for your records
+* **Mortgage Insurance Cap:** Mortgages requiring default insurance (down payment less than 20%) are available for property values up to **$1.5 million** (recently increased from $1 million in 2024/2025).
+* **Mortgage Stress Test:** All borrowers must qualify using a higher interest rate (the greater of 5.25% or your negotiated contract rate plus 2%).
+* **GDS/TDS Ratios:** Your Gross Debt Service (GDS) ratio should typically not exceed **39%** and your Total Debt Service (TDS) ratio should not exceed **44%** (at the stress-tested rate).

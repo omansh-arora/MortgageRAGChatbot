@@ -1,158 +1,116 @@
-# First-Time Home Buyer Programs in Canada
+Here is the fully updated and fixed document in Markdown format, incorporating the latest program changes for 2025 in Canada, specifically for British Columbia (BC), and prominently featuring the **First Home Savings Account (FHSA)**.
 
-## Overview
+---
 
-Canada offers several programs and incentives to help first-time home buyers enter the housing market. Understanding these programs can help you maximize your purchasing power and reduce costs.
+# 🏡 First-Time Home Buyer Programs in Canada (2025 RAG Data)
 
-## First-Time Home Buyer Definition
+## 📌 Overview
 
-According to Canadian tax law, you're considered a first-time home buyer if:
-- You have not owned a home in which you lived in the last four years
-- Your spouse or common-law partner has not owned a home in which you lived together in the last four years
+Canada offers several key programs and incentives to help first-time home buyers enter the housing market. These programs primarily focus on increasing down payment savings, reducing income tax, and exempting/rebating property transfer taxes.
 
-## Key Programs and Incentives
+## First-Time Home Buyer Definition (Federal)
 
-### 1. First-Time Home Buyer Incentive (FTHBI)
+To be considered a first-time home buyer for most federal programs (like the HBTC, HBP, and FHSA), you must meet the following criteria:
 
-**Eligibility:**
-- First-time home buyer
-- Total annual qualifying income of $120,000 or less (or $150,000 for Toronto, Vancouver, and Victoria)
-- Minimum down payment of 5%
-- Purchased price must not exceed 4 times your annual income
+* You did not live in a home (owned or jointly owned by you) that was your principal residence in the current calendar year or the preceding **four calendar years**.
+* Your spouse or common-law partner (if applicable) did not live in a home (owned or jointly owned by them) that was their principal residence in the current calendar year or the preceding **four calendar years**.
 
-**Benefits:**
-- Shared equity mortgage with Government of Canada
-- 5% or 10% of home purchase price for newly constructed homes
-- 5% for existing/resale homes
-- No ongoing monthly payments required
-- Must be repaid when you sell the property or after 25 years
+---
 
-### 2. Home Buyers' Plan (HBP)
+## 💰 Key Programs and Financial Incentives
 
-**What it is:**
-- Allows you to withdraw up to $35,000 from your RRSP to buy or build a qualifying home
-- For couples, both can withdraw up to $35,000 each ($70,000 total)
+### 1. First Home Savings Account (FHSA) **[NEW & CRITICAL]**
 
-**Requirements:**
-- You must be a first-time home buyer
-- Have a written agreement to buy or build a qualifying home
-- Must repay withdrawals over 15 years
-- Repayments start the second year after withdrawal
+The FHSA is a new registered account that combines the features of an RRSP and a TFSA.
 
-**Advantages:**
-- Tax-free withdrawal from RRSP
-- Use your own savings without penalty
-- Flexible repayment schedule
+| Feature | Details |
+| :--- | :--- |
+| **Tax Treatment** | **Contributions are tax-deductible** (like an RRSP); **Qualifying withdrawals are tax-free** (like a TFSA). |
+| **Annual Limit** | **$8,000** (Participation room begins only when you open the account). |
+| **Lifetime Limit** | **$40,000**. |
+| **Carry Forward** | Unused annual contribution room can be carried forward, up to a maximum of **$8,000** per year. |
+| **Maximum Period** | The account can remain open for a maximum of 15 years or until you turn 71, or the year following your first qualifying withdrawal. |
+| **Withdrawals** | Tax-free if used for a qualifying home purchase. **No repayment required.** |
+| **Interaction** | Can be used **in addition** to the Home Buyers' Plan (HBP). |
 
-### 3. GST/HST New Housing Rebate
+### 2. Home Buyers' Plan (HBP) **[UPDATED LIMIT]**
 
-**Eligibility:**
-- Purchasing a newly constructed home or substantially renovated home
-- Home will be your primary residence
-- Fair market value is less than $450,000
+| Feature | Details |
+| :--- | :--- |
+| **Withdrawal Limit** | Up to **$60,000** (increased from $35,000) from your RRSP per person. Couples can withdraw up to $120,000 total. |
+| **Use of Funds** | Must be used to buy or build a qualifying home. |
+| **Repayment** | Withdrawals must be repaid to the RRSP over a 15-year period. |
+| **Repayment Start**| Repayments start the second calendar year after the withdrawal. |
+| **Holding Period** | Funds must be in the RRSP for at least 90 days before withdrawal. |
 
-**Benefits:**
-- Rebate of up to 36% of GST paid
-- Maximum rebate of $6,300 for GST (5%)
-- Additional provincial rebate may be available depending on province
+### 3. First-Time Home Buyer Tax Credit (HBTC) **[VALID]**
 
-### 4. Land Transfer Tax Rebate
+* **Benefit:** A non-refundable income tax credit based on an amount of **$10,000**.
+* **Tax Savings:** Provides a maximum tax relief of **$1,500** on your annual income tax return.
+* **Claiming:** Claimed on your tax return for the year the home purchase closes.
 
-**Ontario:**
-- First-time buyers can receive up to $4,000 rebate
-- Applies to land transfer tax paid on eligible homes
+### 4. GST/HST New Housing Rebate **[UPDATED FOR NEW BUILDS]**
 
-**British Columbia:**
-- First-time buyers exempt from property transfer tax on homes up to $500,000
-- Partial exemption on homes up to $525,000
+* **Benefit:** Allows buyers of newly constructed homes to recover a portion of the GST or the federal part of the HST paid.
+* **Existing Rebate:** Max rebate is 36% of the federal portion of the tax, up to **$6,300**, for homes valued under $450,000 (phases out at $450,000).
+* **Proposed FTHB Rebate (New Builds):** New proposed legislation would eliminate the federal 5% GST on qualifying newly built homes valued up to **$1 million** for first-time buyers. A partial rebate is available for homes up to $1.5 million.
 
-**Other Provinces:**
-- Check provincial programs as they vary by location
+---
 
-### 5. First-Time Home Buyer Tax Credit (HBTC)
+## 🏔️ British Columbia (BC) Specific Programs
 
-**What it is:**
-- Non-refundable income tax credit
-- $10,000 × 15% = $1,500 tax credit
+### 1. BC First-Time Home Buyers' Program (Property Transfer Tax Exemption) **[UPDATED LIMITS]**
 
-**Who can claim:**
-- First-time home buyers
-- Persons with disabilities (or buying for a disabled relative)
+This program reduces or eliminates the provincial **Property Transfer Tax (PTT)**.
 
-**When to claim:**
-- On your tax return for the year you purchased the home
+| Property Status | Fair Market Value | Exemption Details |
+| :--- | :--- | :--- |
+| **Full Exemption** | **$835,000 or less** (Increased from $500,000, effective April 1, 2024). | Exempt from paying any PTT. |
+| **Partial Exemption** | Between **$835,000 and $860,000**. | Exemption amount is gradually reduced. |
+| **No Exemption** | **$860,000 or more**. | Full PTT must be paid. |
 
-## Minimum Down Payment Requirements
+**Key BC Eligibility Requirements (PTT):**
 
-### For First-Time Buyers:
-- 5% down payment on homes up to $500,000
-- 10% down payment on portion between $500,000 and $1,000,000
-- 20% down payment on homes over $1,000,000
+* Must be a **Canadian citizen or permanent resident**.
+* Must have lived in BC for at least **12 consecutive months** immediately before the registration date, OR filed at least **2 income tax returns as a BC resident** in the last 6 taxation years.
+* Must never have owned a registered interest in a principal residence anywhere in the world.
+* Must occupy the property as your principal residence within **92 days** of registration and continuously occupy it for the first year.
 
-### Example Calculation:
-**Home Price: $600,000**
-- First $500,000: 5% = $25,000
-- Next $100,000: 10% = $10,000
-- **Total Down Payment Required: $35,000**
+### 2. BC Newly Built Home Exemption **[UPDATED LIMITS]**
 
-## Mortgage Default Insurance (CMHC)
+This program is separate from the FTHB exemption and applies to *all* buyers of new homes.
 
-If your down payment is less than 20%, you'll need mortgage default insurance.
+* **Full Exemption:** For homes with a fair market value up to **$1,100,000** (Increased from $750,000, effective April 1, 2024).
+* **Partial Exemption:** For homes valued between $1,100,000 and **$1,150,000**.
 
-**Providers:**
-- CMHC (Canada Mortgage and Housing Corporation)
-- Sagen
-- Canada Guaranty
+---
 
-**Insurance Premium Rates:**
-- 5% down: 4.00% of mortgage amount
-- 10% down: 3.10% of mortgage amount
-- 15% down: 2.80% of mortgage amount
+## 🏦 Minimum Down Payment Requirements
 
-**Note:** Premium can be added to mortgage amount
+If the purchase price is **less than $1,000,000**, the minimum down payment is:
 
-## Additional First-Time Buyer Benefits
+* **5%** of the first $500,000.
+* **10%** of the remaining amount between $500,000 and $1,000,000.
 
-### 1. Reduced Qualification Stress Test
-- Some lenders offer more flexible qualification for first-time buyers
-- Must still pass mortgage stress test at higher rate
+| Home Price | Calculation | Minimum Down Payment |
+| :--- | :--- | :--- |
+| **$400,000** | $400,000 $\times$ 5% | **$20,000** |
+| **$800,000** | $(\$500\text{k}\times 5\%) + (\text{Next } \$300\text{k}\times 10\%)$ | **$55,000** |
+| **$1,000,000+** | **20%** is mandatory (no mortgage insurance needed). | **$200,000+** |
 
-### 2. Lower Interest Rate Options
-- Some banks offer discounted rates for first-time buyers
-- Special first-time buyer mortgage products
+**Note:** A down payment under 20% requires **Mortgage Default Insurance** (CMHC, Sagen, or Canada Guaranty).
 
-### 3. Extended Amortization
-- Up to 30 years with less than 20% down
-- Lowers monthly payments but increases total interest
+---
 
-## How to Maximize These Programs
+## 🔑 Mortgage & Credit Considerations
 
-1. **Start saving early** - Use RRSP for HBP strategy
-2. **Get pre-approved** - Understand your buying power
-3. **Work with a mortgage broker** - They know all available programs
-4. **Plan your timeline** - Some programs require advance planning
-5. **Keep good credit** - Better rates and program access
+* **30-Year Amortization:** First-time home buyers with less than a 20% down payment may qualify for an extended amortization period of up to **30 years**, which can lower monthly payments.
+* **Mortgage Stress Test:** All borrowers must qualify under the stress test (currently the greater of the contractual mortgage rate plus 2% or 5.25%, or the minimum qualifying rate set by the Bank of Canada).
 
-## Provincial Variations
+---
 
-Each province may have additional programs. Contact a local mortgage broker to learn about:
-- Provincial down payment assistance programs
-- Municipal first-time buyer incentives
-- Regional tax rebates and credits
+## ✅ Next Steps for the Chatbot User
 
-## Important Considerations
-
-- **Don't stretch your budget** - Just because you qualify doesn't mean you should maximize
-- **Factor in all costs** - Property taxes, utilities, maintenance, insurance
-- **Build emergency fund** - Keep 3-6 months expenses after purchase
-- **Consider future changes** - Job changes, family growth, interest rate increases
-
-## Next Steps
-
-1. Assess your financial readiness
-2. Check your credit score
-3. Calculate how much you can afford
-4. Get pre-approved for a mortgage
-5. Connect with a mortgage broker to discuss which programs apply to you
-
-For personalized advice on which programs you qualify for and how to maximize your benefits, contact our mortgage advisors for a free consultation.
+* **Assess FHSA:** Confirm eligibility to open an FHSA and start saving for the immediate tax deduction and tax-free growth/withdrawal.
+* **Verify BC Residency:** Ensure they meet the BC residency requirements for the PTT exemption (12 months of residency or 2 tax filings in the last 6 years).
+* **Pre-Approval:** Seek mortgage pre-approval to understand the maximum budget they qualify for under the new HBP and down payment rules.

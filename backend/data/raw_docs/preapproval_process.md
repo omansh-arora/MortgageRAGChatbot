@@ -187,54 +187,47 @@ You must qualify at the higher of:
 ### Factors That Determine Your Borrowing Amount:
 
 1. **Gross Income**
-   - Employment income
-   - Self-employment income
-   - Rental income (50-80% counted)
-   - Investment income
-   - Pension or disability income
+   - Employment income (salary/hourly)
+   - Self-employment income (2-year average usually required)
+   - Rental income (50-100% counted depending on the lender)
+   - Investment income, pension, or disability income
 
-2. **Down Payment**
-   - Minimum 5% for homes under $500,000
-   - 5% on first $500K + 10% on amount over $500K
-   - Minimum 20% for homes over $1,000,000
+2. **Down Payment Rules (Updated Dec 2024)**
+   - **Homes under $500,000:** Minimum 5% down payment.
+   - **Homes $500,000 to $1,500,000:** 5% on the first $500k + 10% on the portion between $500k and $1.5M.
+   - **Homes over $1,500,000:** Minimum 20% down payment is required (uninsured).
 
-3. **Existing Debts**
-   - Credit card balances (3% minimum payment counted)
-   - Car loans and leases
-   - Student loans
-   - Other mortgages
-   - Lines of credit
+3. **Amortization Period**
+   - **30 Years:** Now available for **ALL First-Time Home Buyers** and buyers of **New Construction**. (This lowers monthly payments and increases your borrowing power).
+   - **25 Years:** Standard for other insured mortgages.
 
-4. **Credit Score**
-   - Higher scores = better rates and terms
-   - 680+ recommended for best rates
+4. **Existing Debts**
+   - Credit card balances (typically 3% of balance is counted as monthly payment)
+   - Car loans, student loans, lines of credit.
 
-5. **Property Type**
-   - Single-family homes (easiest to finance)
-   - Condos (may have additional requirements)
-   - Rural properties (may need larger down payment)
+5. **Credit Score**
+   - **680+**: Recommended for best rates and easiest qualification.
+   - **600-679**: Qualifies for insured mortgages but may have stricter ratio limits.
 
 ### Typical Borrowing Calculations:
 
-**Rule of Thumb:** 
-- Maximum home price ≈ 4-5 times gross household income
-- This is rough guidance only - actual approval depends on full application
+**Rule of Thumb:**
+- Maximum home price ≈ 4.0 to 4.5 times gross household income (highly dependent on interest rates and debts).
 
-**Example Scenarios:**
+**Example Scenarios (2025 Rules):**
 
-**Scenario 1: First-Time Buyer**
-- Income: $80,000
-- Down payment: $40,000 (5%)
-- No debts
-- Credit score: 720
-- **Approximate approval: $425,000-$450,000**
+**Scenario 1: First-Time Buyer (30-Year Amortization)**
+- Income: $90,000
+- Down payment: $40,000
+- Debts: $0
+- **Approximate Approval:** $400,000 - $430,000
+- *Benefit: Using the 30-year amortization helps qualify for a higher amount.*
 
-**Scenario 2: Move-Up Buyer**
-- Income: $120,000
-- Down payment: $150,000 (20%)
-- Car loan: $450/month
-- Credit score: 750
-- **Approximate approval: $600,000-$650,000**
+**Scenario 2: High-Income Buyer (Insured Mortgage up to $1.5M)**
+- Income: $220,000
+- Down payment: $100,000 (Less than 20%)
+- Target Price: $1.2 Million
+- **Status:** **Possible.** (Under the new rules, you can buy a $1.2M home with less than 20% down, whereas previously you needed $240,000 cash).
 
 ## Tips for a Successful Pre-Approval
 
