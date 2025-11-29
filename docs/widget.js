@@ -6,7 +6,7 @@
     API_URL: window.MORTGAGE_BOT_API_URL || 'http://localhost:8000',
     WIDGET_TITLE: 'Mortgage Assistant',
     WELCOME_MESSAGE:
-      "Welcome to our mortgage desk! 💬\n\nWhether you're curious about rates, pre-approvals, or first-time buyer programs, I've got you covered. What would you like to know?",
+      "Welcome to our mortgage desk! \n\nWhether you're curious about rates, pre-approvals, or first-time buyer programs, I've got you covered. What would you like to know?",
     PLACEHOLDER: 'Ask anything about mortgages…',
     PRIMARY_COLOR: '#0f172a',
     ACCENT_COLOR: '#3b82f6',
