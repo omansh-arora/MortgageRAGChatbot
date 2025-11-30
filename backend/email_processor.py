@@ -333,11 +333,8 @@ Is-Reply: {is_reply}
                     elif content_type == "text/html" and not body:
                         try:
                             html_content = part.get_payload(decode=True).decode('utf-8', errors='ignore')
-                            if BS4_AVAILABLE:
-                                soup = BeautifulSoup(html_content, 'html.parser')
-                                body += soup.get_text()
-                            else:
-                                body += html_content
+                            soup = BeautifulSoup(html_content, 'html.parser')
+                            body += soup.get_text()
                         except:
                             pass
             else:
