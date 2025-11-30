@@ -467,6 +467,9 @@
         font-size: 16px;
         outline: none;
         color: #111827;
+        -webkit-appearance: none;
+        -moz-appearance: none;
+        appearance: none;
       }
 
       .chat-input::placeholder {
@@ -549,6 +552,10 @@
                     id="chat-input"
                     placeholder="${CONFIG.PLACEHOLDER}"
                     maxlength="500"
+                    autocomplete="off"
+                    autocorrect="off"
+                    autocapitalize="off"
+                    spellcheck="false"
                   />
                   <button class="send-btn" id="send-btn">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
