@@ -44,6 +44,15 @@
   function injectStyles() {
     const style = document.createElement('style');
     style.textContent = `
+      html, body {
+        width: 100%;
+        height: 100%;
+        overflow: hidden;
+        position: fixed;
+        margin: 0;
+        padding: 0;
+      }
+
       #mortgage-chat-widget * {
         box-sizing: border-box;
         margin: 0;
@@ -54,21 +63,21 @@
         position: fixed;
         top: 0;
         left: 0;
-        width: 100vw;
-        height: 100vh;
+        width: 100%;
+        height: 100%;
         z-index: 9999;
       }
 
       .chat-window {
         display: flex;
-        position: static;
+        flex-direction: column;
         width: 100%;
-        height: 100%;
+        height: 100vh;
+        height: 100dvh;
         padding: 0;
         border-radius: 0;
         background: radial-gradient(circle at top, #4f46e5 0%, #1d4ed8 40%, #312e81 100%);
         box-shadow: none;
-        box-sizing: border-box;
         animation: none;
       }
 
@@ -76,7 +85,8 @@
         display: flex;
         flex-direction: column;
         width: 100%;
-        height: 100%;
+        height: 100vh;
+        height: 100dvh;
         background: radial-gradient(circle at 0 0, #eff6ff 0%, #e5e7eb 45%, #f9fafb 100%);
         border-radius: 0;
         overflow: hidden;
@@ -95,6 +105,7 @@
       }
 
       .chat-header {
+        flex-shrink: 0;
         position: relative;
         padding: 16px 18px;
         background: linear-gradient(135deg, ${CONFIG.GRADIENT_START}, ${CONFIG.GRADIENT_END});
@@ -184,6 +195,7 @@
       .chat-body {
         position: relative;
         flex: 1;
+        min-height: 0;
         display: flex;
         flex-direction: column;
         gap: 10px;
@@ -191,6 +203,7 @@
 
       .chat-card {
         flex: 1;
+        min-height: 0;
         display: flex;
         flex-direction: column;
         background: #ffffff;
@@ -199,12 +212,13 @@
           0 16px 40px rgba(15, 23, 42, 0.18),
           0 0 0 1px rgba(148, 163, 184, 0.25);
         overflow: hidden;
-        size: fill;
       }
 
       .chat-messages {
         flex: 1;
-        overflow-y: scroll;
+        min-height: 0;
+        overflow-y: auto;
+        -webkit-overflow-scrolling: touch;
         padding: 16px 18px 20px;
         background: linear-gradient(180deg, #f8fafc 0%, #eef2ff 40%, #f9fafb 100%);
       }
@@ -389,6 +403,7 @@
       }
 
       .chat-input-container {
+        flex-shrink: 0;
         padding: 10px 14px 12px 12px;
         background: #f9fafb;
         border-top: 1px solid rgba(226, 232, 240, 0.9);
@@ -449,7 +464,7 @@
         padding: 8px 6px;
         border: none;
         background: transparent;
-        font-size: 14px;
+        font-size: 16px;
         outline: none;
         color: #111827;
       }
