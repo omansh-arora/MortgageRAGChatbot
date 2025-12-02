@@ -66,7 +66,7 @@ CHUNK_SIZE = 1500
 CHUNK_OVERLAP = 300
 
 RETRIEVAL_K = 6
-LLM_MODEL = "gpt-4o-mini"
+LLM_MODEL = "gpt-5-mini"
 LLM_TEMPERATURE = 0.1
 
 COLLECTION_NAME = "mortgage_documents"
