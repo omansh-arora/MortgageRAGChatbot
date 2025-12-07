@@ -564,7 +564,7 @@
                   </button>
                 </div>
                 <div class="chat-footer-meta">
-                  <span>AI mortgage assistant • No obligations</span>
+                  <span>Information shared is for general education and not financial, legal, or professional advice.</span>
                 </div>
               </div>
             </div>
